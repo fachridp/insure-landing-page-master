@@ -1,0 +1,90 @@
+body
+{
+  margin: 0;
+  font-family: 'Karla', sans-serif;
+  background-color: #fff;
+
+}
+h1, h2, h3, h4, h5, h6
+{
+  font-family: 'DM Serif Display', serif;
+}
+/* Top navigation */
+
+.navbar
+{
+  background-color: #fff;
+  color: #0b0814;
+  padding: 1% 10%;
+  position: relative;
+  z-index: 2;
+}
+
+.container-fluid
+{
+  padding: 7% 10%;
+}
+
+.nav-item
+{
+  padding: 10px;
+}
+
+.btn
+{
+  border-radius: 0;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.btn-outline-secondary:hover
+{
+  background-color: #32253C;
+}
+
+/* Title section */
+
+#title
+{
+  background-color: #32253C;
+}
+
+.row-border
+{
+  border-top: 1px solid #fff;
+  width: 30%;
+}
+
+.big-heading
+{
+  font-size: 4.5rem;
+  padding: 35px 0;
+  letter-spacing: 0.9;
+  line-height: 0.9;
+
+}
+
+.top-subtitle
+{
+  color: #fff;
+  margin-bottom: 25px;
+}
+
+.title-img
+{
+  position: absolute;
+  margin: 0;
+}
+
+.bg-pattern-left-desktop
+{
+  position: absolute;
+  top: 550px;
+}
+
+.bg-pattern-right-desktop
+{
+  position: absolute;
+  right: 0;
+  top: 50px;
+}
